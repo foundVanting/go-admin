@@ -5,17 +5,17 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/GoAdminGroup/go-admin/context"
-	"github.com/GoAdminGroup/go-admin/modules/auth"
-	"github.com/GoAdminGroup/go-admin/modules/errors"
-	"github.com/GoAdminGroup/go-admin/modules/logger"
-	"github.com/GoAdminGroup/go-admin/plugins/admin/modules/constant"
-	"github.com/GoAdminGroup/go-admin/plugins/admin/modules/form"
-	"github.com/GoAdminGroup/go-admin/plugins/admin/modules/parameter"
-	"github.com/GoAdminGroup/go-admin/plugins/admin/modules/response"
-	"github.com/GoAdminGroup/go-admin/plugins/admin/modules/table"
-	"github.com/GoAdminGroup/go-admin/template"
-	"github.com/GoAdminGroup/go-admin/template/types"
+	"github.com/foundVanting/go-admin/context"
+	"github.com/foundVanting/go-admin/modules/auth"
+	"github.com/foundVanting/go-admin/modules/errors"
+	"github.com/foundVanting/go-admin/modules/logger"
+	"github.com/foundVanting/go-admin/plugins/admin/modules/constant"
+	"github.com/foundVanting/go-admin/plugins/admin/modules/form"
+	"github.com/foundVanting/go-admin/plugins/admin/modules/parameter"
+	"github.com/foundVanting/go-admin/plugins/admin/modules/response"
+	"github.com/foundVanting/go-admin/plugins/admin/modules/table"
+	"github.com/foundVanting/go-admin/template"
+	"github.com/foundVanting/go-admin/template/types"
 )
 
 // GlobalDeferHandler is a global error handler of admin plugin.

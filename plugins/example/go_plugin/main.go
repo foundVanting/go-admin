@@ -1,12 +1,12 @@
 package main
 
 import (
-	"github.com/GoAdminGroup/go-admin/context"
-	"github.com/GoAdminGroup/go-admin/modules/auth"
-	c "github.com/GoAdminGroup/go-admin/modules/config"
-	"github.com/GoAdminGroup/go-admin/modules/db"
-	"github.com/GoAdminGroup/go-admin/modules/service"
-	"github.com/GoAdminGroup/go-admin/plugins"
+	"github.com/foundVanting/go-admin/context"
+	"github.com/foundVanting/go-admin/modules/auth"
+	c "github.com/foundVanting/go-admin/modules/config"
+	"github.com/foundVanting/go-admin/modules/db"
+	"github.com/foundVanting/go-admin/modules/service"
+	"github.com/foundVanting/go-admin/plugins"
 )
 
 type Example struct {

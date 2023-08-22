@@ -5,10 +5,10 @@ import (
 	"html/template"
 	"strings"
 
-	"github.com/GoAdminGroup/go-admin/context"
-	"github.com/GoAdminGroup/go-admin/modules/constant"
-	"github.com/GoAdminGroup/go-admin/modules/language"
-	"github.com/GoAdminGroup/go-admin/template/types"
+	"github.com/foundVanting/go-admin/context"
+	"github.com/foundVanting/go-admin/modules/constant"
+	"github.com/foundVanting/go-admin/modules/language"
+	"github.com/foundVanting/go-admin/template/types"
 )
 
 type AjaxAction struct {

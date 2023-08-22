@@ -1,12 +1,12 @@
 package admin
 
 import (
-	"github.com/GoAdminGroup/go-admin/context"
-	"github.com/GoAdminGroup/go-admin/modules/auth"
-	"github.com/GoAdminGroup/go-admin/modules/config"
-	"github.com/GoAdminGroup/go-admin/modules/utils"
-	"github.com/GoAdminGroup/go-admin/plugins/admin/modules/response"
-	"github.com/GoAdminGroup/go-admin/template"
+	"github.com/foundVanting/go-admin/context"
+	"github.com/foundVanting/go-admin/modules/auth"
+	"github.com/foundVanting/go-admin/modules/config"
+	"github.com/foundVanting/go-admin/modules/utils"
+	"github.com/foundVanting/go-admin/plugins/admin/modules/response"
+	"github.com/foundVanting/go-admin/template"
 )
 
 // initRouter initialize the router and return the context.

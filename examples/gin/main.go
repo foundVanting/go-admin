@@ -7,18 +7,18 @@ import (
 	"os/signal"
 	"time"
 
-	_ "github.com/GoAdminGroup/go-admin/adapter/gin"
-	_ "github.com/GoAdminGroup/go-admin/modules/db/drivers/mysql"
 	_ "github.com/GoAdminGroup/themes/sword"
+	_ "github.com/foundVanting/go-admin/adapter/gin"
+	_ "github.com/foundVanting/go-admin/modules/db/drivers/mysql"
 
-	"github.com/GoAdminGroup/go-admin/engine"
-	"github.com/GoAdminGroup/go-admin/examples/datamodel"
-	"github.com/GoAdminGroup/go-admin/modules/config"
-	"github.com/GoAdminGroup/go-admin/modules/language"
-	"github.com/GoAdminGroup/go-admin/plugins/example"
-	"github.com/GoAdminGroup/go-admin/template"
-	"github.com/GoAdminGroup/go-admin/template/chartjs"
 	"github.com/GoAdminGroup/themes/adminlte"
+	"github.com/foundVanting/go-admin/engine"
+	"github.com/foundVanting/go-admin/examples/datamodel"
+	"github.com/foundVanting/go-admin/modules/config"
+	"github.com/foundVanting/go-admin/modules/language"
+	"github.com/foundVanting/go-admin/plugins/example"
+	"github.com/foundVanting/go-admin/template"
+	"github.com/foundVanting/go-admin/template/chartjs"
 	"github.com/gin-gonic/gin"
 )
 

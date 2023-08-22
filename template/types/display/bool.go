@@ -3,9 +3,9 @@ package display
 import (
 	"strings"
 
-	"github.com/GoAdminGroup/go-admin/template/icon"
-	"github.com/GoAdminGroup/go-admin/template/types"
 	"github.com/GoAdminGroup/html"
+	"github.com/foundVanting/go-admin/template/icon"
+	"github.com/foundVanting/go-admin/template/types"
 )
 
 type Bool struct {

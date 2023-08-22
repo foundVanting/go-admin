@@ -10,12 +10,12 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/GoAdminGroup/go-admin/context"
-	"github.com/GoAdminGroup/go-admin/modules/config"
-	"github.com/GoAdminGroup/go-admin/modules/db"
-	"github.com/GoAdminGroup/go-admin/modules/db/dialect"
-	"github.com/GoAdminGroup/go-admin/modules/logger"
-	"github.com/GoAdminGroup/go-admin/plugins/admin/modules"
+	"github.com/foundVanting/go-admin/context"
+	"github.com/foundVanting/go-admin/modules/config"
+	"github.com/foundVanting/go-admin/modules/db"
+	"github.com/foundVanting/go-admin/modules/db/dialect"
+	"github.com/foundVanting/go-admin/modules/logger"
+	"github.com/foundVanting/go-admin/plugins/admin/modules"
 )
 
 const DefaultCookieKey = "go_admin_session"
